@@ -1,4 +1,4 @@
-# Trader Performance vs Market Sentiment Analysis 📈
+# Trader Performance vs Market Sentiment Analysis 
 
 Analyze how macroeconomic Bitcoin sentiment (Fear vs. Greed Index) uniquely impacts retail trader behavior and net profitability on the Hyperliquid exchange.
 
